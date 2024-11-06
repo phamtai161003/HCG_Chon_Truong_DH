@@ -1,0 +1,1001 @@
+﻿ten_truong,ma_nganh,ten_nganh,diem_chuan,he_dao_tao,dia_chi,latitude,longitude,chat_luong,nhom_xep_hang,khu_vuc,linh_vuc,hoc_phi,canh_tranh,co_hoi_viec_lam,hoc_bong,chuong_trinh_lien_ket
+Đại học Quốc gia Hà Nội,MA0001,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02508907,105.8067192,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0002,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03991374,105.8078435,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0003,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04229504,105.8021987,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0004,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02540013,105.7989022,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0005,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03194102,105.810093,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0006,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02677659,105.8078882,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0007,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04095498,105.8063631,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0008,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03499173,105.7985057,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0009,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03024269,105.8080318,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0010,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03040351,105.8052283,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0011,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.02871294,105.8099989,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0012,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02382713,105.798283,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0013,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.04211154,105.8004459,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0014,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.04014335,105.8100363,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0015,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.04283231,105.8095106,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0016,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03088921,105.8020364,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0017,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.02832193,105.7954997,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0018,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03042853,105.8075393,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0019,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03687581,105.7978167,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0020,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02912037,105.8018941,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0021,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03352817,105.803509,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0022,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04087675,105.8108646,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0023,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02480538,105.8033704,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0024,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03180853,105.7981254,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0025,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03466966,105.8056719,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0026,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03650864,105.8120299,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0027,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03566597,105.8030143,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0028,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02883612,105.8036724,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0029,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03898793,105.7981102,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0030,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03079698,105.8053234,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0031,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03860482,105.7971147,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0032,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03646089,105.799468,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0033,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03960778,105.8051716,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0034,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03938294,105.7998011,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0035,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04175937,105.7986415,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0036,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03172824,105.8047036,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0037,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02574041,105.7981268,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0038,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03252744,105.8109657,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0039,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03326955,105.8012979,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0040,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03407638,105.8065659,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0041,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.03145531,105.8043932,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0042,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02554374,105.8030042,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0043,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04182295,105.8125366,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0044,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0419545,105.8085972,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0045,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.0316316,105.7961798,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0046,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03373832,105.7988043,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0047,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03636523,105.8055641,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0048,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02834982,105.8031189,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0049,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02896009,105.8069655,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0050,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.03620615,105.8116638,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0051,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03872248,105.7966389,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0052,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03871446,105.8126526,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0053,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03200653,105.8067972,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0054,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03947141,105.801744,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0055,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04060087,105.7971372,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0056,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02660789,105.8048561,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0057,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02568676,105.7984832,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0058,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02864804,105.8078075,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0059,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03992645,105.7935553,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0060,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.0331411,105.7969315,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0061,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.03570584,105.7995101,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0062,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03447516,105.8010777,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0063,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03713845,105.8083125,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0064,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03800273,105.8095268,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0065,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03337342,105.7937198,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0066,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02418741,105.8027469,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0067,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.02489645,105.8034135,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0068,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03103371,105.796169,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0069,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.024072,105.8053803,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0070,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03466767,105.8065715,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0071,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03171168,105.803861,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0072,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02386096,105.8025398,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0073,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03478055,105.812544,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0074,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03671922,105.8019777,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0075,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.02577978,105.8109839,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0076,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03243945,105.7936953,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0077,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03686257,105.7967293,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0078,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04226017,105.8029423,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0079,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04114376,105.7987819,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0080,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04268981,105.7998678,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0081,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02510321,105.8027906,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0082,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03655106,105.8120118,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0083,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02761477,105.8024586,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0084,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03553091,105.8111351,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0085,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02678639,105.8072899,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0086,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.03152968,105.8014979,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0087,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03962079,105.8032693,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0088,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03807455,105.80495,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0089,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.02924004,105.8102884,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0090,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03165561,105.8074398,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0091,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.0410317,105.8117262,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0092,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.03758236,105.812135,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0093,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02805598,105.7987177,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0094,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02407272,105.8004176,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0095,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02447349,105.8115047,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0096,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02502653,105.8032357,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0097,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03747683,105.8098963,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0098,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02412725,105.8083185,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0099,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02478407,105.8054078,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0100,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.04106657,105.808129,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0101,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04010909,105.8036278,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0102,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02833142,105.7965783,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0103,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03725076,105.7978047,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0104,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02523727,105.7977785,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0105,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03918531,105.8015173,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0106,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03463285,105.7940001,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0107,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03594428,105.7996094,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0108,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03216723,105.7949572,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0109,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04104784,105.8016559,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0110,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03216742,105.812527,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0111,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.02994471,105.808359,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0112,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02835041,105.7950032,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0113,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03775132,105.8025948,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0114,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02343512,105.8117532,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0115,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03410732,105.7979113,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0116,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.03272619,105.808248,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0117,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03047474,105.8119788,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0118,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03433987,105.811269,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0119,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03234523,105.8120809,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0120,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03490467,105.795469,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0121,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03100257,105.7973604,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0122,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03532355,105.8055321,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0123,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.04005466,105.7959726,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0124,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04240326,105.8086363,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0125,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.04172403,105.8034323,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0126,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04242863,105.8016532,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0127,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02984418,105.80857,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0128,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04301791,105.8092221,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0129,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03423471,105.7967523,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0130,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04297659,105.8053553,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0131,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03627084,105.8117824,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0132,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03537949,105.8096255,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0133,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02959874,105.8114296,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0134,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04092004,105.7961738,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0135,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03733938,105.8127614,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0136,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.03371557,105.7941416,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0137,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02446996,105.8095517,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0138,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0249208,105.7997681,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0139,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.02998954,105.7966846,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0140,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.0370111,105.808219,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0141,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02545941,105.8038991,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0142,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.02491663,105.8049581,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0143,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03171415,105.7988,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0144,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03355821,105.8012962,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0145,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.02668553,105.8117057,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0146,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0279956,105.8111137,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0147,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02469641,105.806883,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0148,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02505689,105.8078539,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0149,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04202528,105.7984563,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0150,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.02836303,105.8024164,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0151,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02715198,105.8099838,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0152,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03369533,105.8088431,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0153,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03050494,105.7993048,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0154,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02683671,105.8005176,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0155,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03628774,105.8123489,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0156,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.04195601,105.811762,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0157,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03471073,105.8053138,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0158,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03093259,105.8020271,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0159,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02545898,105.8013292,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0160,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03835082,105.8080768,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0161,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.03343697,105.8082667,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0162,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0395477,105.8043108,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0163,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03205526,105.8096414,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0164,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.02449471,105.7998776,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0165,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03297954,105.7972057,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0166,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03349693,105.8083554,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0167,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.0416129,105.8074686,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0168,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02872125,105.7953111,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0169,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03052503,105.8092894,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0170,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.03240471,105.8075244,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0171,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04001722,105.8029482,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0172,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02797893,105.7999848,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0173,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03321351,105.8115244,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0174,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02334214,105.8017714,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0175,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.02361094,105.7962824,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0176,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0399338,105.800254,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0177,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03501663,105.8048984,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0178,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0269547,105.8059118,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0179,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02484334,105.8096807,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0180,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03311517,105.8046208,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0181,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03040283,105.8017206,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0182,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0413554,105.806821,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0183,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03354647,105.8114757,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0184,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03849998,105.8023399,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0185,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03393975,105.8089347,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0186,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.04171494,105.8009253,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0187,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0368227,105.7942268,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0188,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03241223,105.8110877,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0189,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03071498,105.8133867,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0190,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.0291667,105.8061869,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0191,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.04093658,105.8017018,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0192,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02944835,105.797138,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0193,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03414978,105.7974318,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0194,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03311947,105.7975406,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0195,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03842977,105.8079516,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0196,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04298243,105.8044863,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0197,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03428238,105.7960847,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0198,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.04202938,105.7955572,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0199,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02647411,105.802852,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0200,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.03279641,105.7977699,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0201,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04207582,105.8075528,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0202,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04031018,105.809195,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0203,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02506877,105.7947889,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0204,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02461847,105.7986987,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0205,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04079029,105.7942981,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0206,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03749351,105.8012968,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0207,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03220707,105.7944708,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0208,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.0277456,105.8063672,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0209,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04176198,105.800785,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0210,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04105219,105.8057848,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0211,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.02690398,105.8131939,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0212,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03851645,105.7943049,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0213,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03531471,105.7948925,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0214,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03258599,105.8126718,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0215,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03771542,105.8076523,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0216,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02447961,105.797591,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0217,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.03500732,105.8026581,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0218,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03860514,105.8042076,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0219,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04050724,105.8120649,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0220,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03057344,105.8000598,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0221,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03052006,105.7942018,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0222,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02378266,105.8052133,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0223,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.0396571,105.8120045,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0224,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04130851,105.7963797,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0225,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.04278602,105.7992421,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0226,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03383157,105.7987084,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0227,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02360396,105.8028402,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0228,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04100146,105.8029505,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0229,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03114237,105.8032228,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0230,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03019213,105.8117799,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0231,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03036018,105.802878,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0232,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03626474,105.8008644,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0233,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03654477,105.8051143,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0234,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03552199,105.8103976,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0235,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04246495,105.7942317,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0236,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.02917535,105.7978501,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0237,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0389601,105.7990936,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0238,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03806383,105.7988034,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0239,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03020627,105.7939386,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0240,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03934751,105.7940358,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0241,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03960382,105.7973081,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0242,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.02403687,105.811719,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0243,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04114775,105.8034543,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0244,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03104678,105.7950392,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0245,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.03156051,105.7970837,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0246,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03561689,105.7981589,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0247,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03235015,105.8092913,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0248,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02429187,105.7952346,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0249,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03726967,105.7986313,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0250,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.02367764,105.7977873,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0251,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0327113,105.7979483,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0252,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03464865,105.807557,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0253,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03586102,105.794542,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0254,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03033131,105.7971283,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0255,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03691424,105.8109234,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0256,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03909257,105.800222,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0257,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03693957,105.7958913,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0258,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02671566,105.8110758,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0259,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04068731,105.806149,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0260,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03917863,105.8087976,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0261,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03653346,105.7966054,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0262,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03398623,105.7971756,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0263,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03280763,105.8115831,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0264,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03281073,105.8078588,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0265,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03934738,105.8120241,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0266,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.02390606,105.80832,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0267,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02564659,105.8055127,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0268,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04266563,105.8127004,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0269,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03792656,105.8083636,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0270,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03468567,105.8030055,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0271,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04047577,105.8111346,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0272,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04235308,105.8121828,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0273,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.0378116,105.8014182,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0274,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03375673,105.7959089,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0275,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.0395538,105.8023959,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0276,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02569629,105.807772,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0277,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03695334,105.8111716,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0278,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03970765,105.8000298,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0279,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03369142,105.8020708,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0280,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03168601,105.8013196,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0281,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03818152,105.8004612,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0282,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03503129,105.7934586,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0283,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04089841,105.7997113,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0284,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03054291,105.7944439,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0285,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04182279,105.8125375,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0286,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.03587521,105.8119572,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0287,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03436208,105.7965451,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0288,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03222074,105.8017941,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0289,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.02443135,105.8014871,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0290,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03168153,105.7951607,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0291,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02901046,105.7985614,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0292,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.02499795,105.7949528,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0293,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03062139,105.8114798,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0294,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02521908,105.8132173,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0295,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.04139747,105.8076276,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0296,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03388555,105.8059051,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0297,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03529424,105.8062879,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0298,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03293361,105.8084797,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0299,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03807743,105.8066327,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0300,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.03566601,105.8021712,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0301,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02646618,105.793467,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0302,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02932663,105.8071883,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0303,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04198685,105.7970509,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0304,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03894295,105.8040019,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0305,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03964074,105.7975371,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0306,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.0397079,105.8043338,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0307,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02497423,105.7969447,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0308,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02908474,105.8093053,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0309,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02382523,105.8052902,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0310,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02480992,105.798963,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0311,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.04016693,105.8038992,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0312,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.04236734,105.8123585,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0313,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03746842,105.8098101,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0314,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.02995196,105.796937,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0315,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.02463706,105.8068135,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0316,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03263115,105.7962572,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0317,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.04157215,105.7949317,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0318,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02941445,105.8047655,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0319,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0362229,105.7944258,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0320,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02959776,105.8063046,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0321,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03129433,105.7978359,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0322,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.0276022,105.8132526,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0323,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03340213,105.8064237,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0324,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03008165,105.7993877,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0325,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.04014086,105.8007169,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0326,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03189507,105.8056514,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0327,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02922983,105.8036375,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0328,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03977048,105.8120516,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0329,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03804539,105.8052537,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0330,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03032002,105.8027382,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0331,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02756027,105.812166,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0332,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03733372,105.8125769,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0333,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03960923,105.8011856,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0334,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02806432,105.8100085,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0335,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02947137,105.7987684,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0336,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.02679297,105.7947255,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0337,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0380972,105.8123065,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0338,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03620095,105.8024193,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0339,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02528243,105.8043877,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0340,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03719157,105.8066148,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0341,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.04305968,105.7977533,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0342,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03273963,105.8125036,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0343,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03039174,105.807874,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0344,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04213167,105.8086774,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0345,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.04085288,105.8021418,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0346,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03260364,105.8101872,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0347,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02841454,105.8129051,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0348,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03821377,105.8100517,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0349,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03851618,105.8049745,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0350,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.03604534,105.8011893,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0351,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03653372,105.8009422,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0352,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03554301,105.8017171,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0353,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03997409,105.7937451,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0354,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03123106,105.8111252,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0355,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03593967,105.8112853,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0356,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.04051315,105.795606,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0357,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02743264,105.8014742,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0358,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03598003,105.8070218,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0359,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03200933,105.8127694,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0360,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03668897,105.8004858,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0361,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.04156848,105.8001793,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0362,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.04292269,105.7958195,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0363,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0308743,105.8040032,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0364,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.04114278,105.8112706,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0365,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.02359571,105.794628,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0366,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02379851,105.8039233,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0367,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.0431234,105.7981719,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0368,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03399105,105.7967912,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0369,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03489913,105.7941346,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0370,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03215645,105.7999152,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0371,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03243312,105.8006881,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0372,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04140992,105.8109322,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0373,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03362964,105.8106271,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0374,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03821287,105.7990003,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0375,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.04088546,105.8092863,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0376,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04122769,105.8126491,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0377,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04327701,105.7972019,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0378,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03715496,105.7970961,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0379,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03494101,105.8129663,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0380,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02504622,105.8034076,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0381,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.0324984,105.7974976,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0382,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02374273,105.8004714,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0383,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03650314,105.8085807,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0384,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03644857,105.8095561,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0385,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02981789,105.7997601,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0386,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.02961116,105.8083656,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0387,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02877212,105.8049794,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0388,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02364285,105.7983142,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0389,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03250749,105.7978695,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0390,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.0251962,105.8106151,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0391,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.04279664,105.7982929,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0392,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.02778187,105.7973503,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0393,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04265114,105.8079709,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0394,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03837625,105.8032044,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0395,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.03977425,105.8125416,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0396,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0375866,105.8005888,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0397,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.0410664,105.7964421,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0398,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02662304,105.7985061,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0399,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03346569,105.8100608,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0400,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03454936,105.7967785,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0401,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02966398,105.8118627,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0402,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03663674,105.7997434,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0403,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03516424,105.8125763,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0404,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03253644,105.7974233,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0405,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02729778,105.8092595,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0406,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.04269063,105.7980388,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0407,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03664659,105.8049574,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0408,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02667188,105.8070001,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0409,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04201536,105.7961365,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0410,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03057798,105.8071116,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0411,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03604121,105.8056013,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0412,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03078581,105.8053545,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0413,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02758117,105.8024079,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0414,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02601144,105.7965636,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0415,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.02838616,105.7987494,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0416,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.04205555,105.8006163,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0417,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02702007,105.8073247,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0418,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03210622,105.7988311,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0419,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04151104,105.8088631,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0420,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.02994258,105.8034509,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0421,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02814073,105.7973024,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0422,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02772084,105.8012014,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0423,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03245507,105.7973032,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0424,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04024556,105.8057022,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0425,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.02865113,105.803063,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0426,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02588403,105.7937861,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0427,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03731344,105.8128665,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0428,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04109257,105.7969851,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0429,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02474085,105.8019832,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0430,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03802811,105.7936224,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0431,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03616048,105.8072525,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0432,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03702643,105.7963096,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0433,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03399961,105.8054071,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0434,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02869949,105.801344,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0435,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03031115,105.7976195,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0436,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.03815245,105.7977266,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0437,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03204637,105.8074466,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0438,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02390541,105.7958393,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0439,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03979768,105.8058976,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0440,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.02641604,105.8024486,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0441,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.03067545,105.8057894,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0442,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.02793191,105.801062,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0443,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03328903,105.8031449,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0444,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04123893,105.8068526,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0445,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03765733,105.7962283,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0446,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03805248,105.7975089,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0447,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03907331,105.8001942,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0448,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02661324,105.7983233,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0449,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03751409,105.8096241,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0450,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.02658745,105.8006993,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0451,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03036232,105.7978798,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0452,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.0238426,105.8012564,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0453,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02495677,105.7965191,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0454,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03663878,105.8077726,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0455,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02528873,105.8067373,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0456,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02506135,105.8018505,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0457,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03354987,105.8126823,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0458,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03430546,105.8058849,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0459,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04080017,105.8074932,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0460,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03127841,105.7996366,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0461,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.03477748,105.8099371,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0462,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02409496,105.7946373,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0463,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03917922,105.806458,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0464,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.0399784,105.8047592,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0465,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03010924,105.7966109,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0466,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.02480978,105.8069869,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0467,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.04265772,105.8045026,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0468,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03658818,105.8055895,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0469,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04203623,105.8119134,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0470,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02661525,105.8026139,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0471,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02666729,105.7990792,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0472,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02724778,105.8091471,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0473,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03296131,105.7953985,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0474,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03887949,105.8062641,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0475,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.04024231,105.8131166,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0476,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03319337,105.8064281,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0477,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03084118,105.8032584,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0478,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04063222,105.7936897,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0479,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03746556,105.8032811,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0480,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03306615,105.8082359,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0481,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02711705,105.8003949,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0482,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03561644,105.7983202,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0483,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03766656,105.8009049,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0484,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03344457,105.7965265,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0485,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02950894,105.8084018,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0486,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.0364474,105.8025198,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0487,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02524723,105.8106574,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0488,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03579159,105.8050744,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0489,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02348762,105.8044106,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0490,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.04096521,105.7949822,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0491,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.02552626,105.8106544,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0492,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02915886,105.8032574,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0493,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03855954,105.8131214,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0494,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04087455,105.8127521,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0495,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03269382,105.7977852,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0496,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03933079,105.7952035,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0497,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03820897,105.8110291,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0498,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02454098,105.7957397,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0499,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03004259,105.8038241,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0500,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.03069876,105.7975185,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0501,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04119444,105.8075656,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0502,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.0264617,105.8079853,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0503,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04242074,105.812702,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0504,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03833769,105.8096745,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0505,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02442309,105.8097111,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0506,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02963526,105.8110766,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0507,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02992573,105.8003317,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0508,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03031968,105.8031932,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0509,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02938683,105.8024573,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0510,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03262374,105.7972631,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0511,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.03670754,105.8062706,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0512,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03022279,105.7999454,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0513,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0323149,105.8026037,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0514,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.04229151,105.8101719,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0515,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03074607,105.8116261,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0516,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.04096793,105.7996071,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0517,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.02743673,105.8072593,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0518,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03407479,105.7967177,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0519,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.026311,105.8084866,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0520,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03039118,105.8116332,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0521,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02892372,105.8097227,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0522,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03695846,105.7992449,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0523,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03673523,105.8051831,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0524,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03728507,105.8013663,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0525,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.02719863,105.8004229,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0526,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03342449,105.7995969,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0527,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03847841,105.8058086,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0528,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0279867,105.8026576,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0529,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04077372,105.8127241,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0530,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02986528,105.8011128,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0531,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.0337247,105.8110745,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0532,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02629402,105.7963574,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0533,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02511397,105.8103071,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0534,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04013351,105.7940515,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0535,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04266084,105.8117392,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0536,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.02839572,105.8016458,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0537,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03832673,105.7970324,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0538,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.04075106,105.811222,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0539,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03362917,105.8129078,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0540,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03415112,105.8095201,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0541,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03970317,105.8107818,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0542,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.04110828,105.8066866,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0543,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0384551,105.8126486,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0544,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02330239,105.7938862,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0545,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.03476204,105.7999271,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0546,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03040023,105.8061556,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0547,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02607711,105.8095554,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0548,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02487213,105.8075715,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0549,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02783476,105.8050003,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0550,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03082413,105.802236,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0551,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03231363,105.8052444,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0552,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03258989,105.802197,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0553,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03469328,105.8042066,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0554,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03816883,105.8081058,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0555,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02345591,105.8087578,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0556,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02399087,105.7975816,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0557,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03350343,105.8078335,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0558,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02896319,105.8105143,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0559,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03831821,105.7958517,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0560,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03719158,105.801953,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0561,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.04230771,105.8103793,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0562,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.04252082,105.8012647,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0563,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03991507,105.8043754,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0564,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03246928,105.8114822,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0565,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03684052,105.8028447,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0566,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.0296981,105.8021234,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0567,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03695633,105.8128823,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0568,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02823762,105.8110693,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0569,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04148681,105.8094661,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0570,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03074777,105.7979519,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0571,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03339427,105.795026,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0572,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03131903,105.7981914,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0573,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03895844,105.7969445,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0574,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03097146,105.8087409,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0575,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.0315397,105.7993848,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0576,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03654149,105.813336,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0577,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03655086,105.8058539,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0578,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03634312,105.79521,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0579,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03682337,105.797421,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0580,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0271085,105.8064903,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0581,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02873868,105.8020211,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0582,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03540823,105.796755,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0583,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03168123,105.797753,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0584,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03798522,105.7987417,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0585,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02716021,105.7957961,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0586,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.03864335,105.7986505,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0587,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.04171715,105.7994753,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0588,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0303687,105.8097361,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0589,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03989016,105.7974962,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0590,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.04082117,105.8131888,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0591,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02373272,105.8051091,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0592,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.03729586,105.8110393,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0593,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02796355,105.7997504,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0594,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02705082,105.8132924,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0595,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.02606999,105.8057427,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0596,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04149445,105.8027715,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0597,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.0340215,105.7949475,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0598,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03761066,105.8066996,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0599,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03499831,105.8049491,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0600,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.0425506,105.7974437,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0601,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02463566,105.8023615,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0602,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03519937,105.806187,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0603,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03844961,105.8108494,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0604,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02561171,105.7989653,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0605,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03427157,105.7965006,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0606,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.0374447,105.8008006,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0607,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02955656,105.7996578,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0608,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02972749,105.8067919,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0609,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02646233,105.7941083,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0610,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02620345,105.8022391,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0611,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.03367996,105.7953139,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0612,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02979043,105.7977066,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0613,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03632482,105.8055924,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0614,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.0328567,105.8045802,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0615,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.02697357,105.8060402,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0616,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.04265702,105.8045055,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0617,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.02706947,105.8035737,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0618,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04144165,105.8009127,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0619,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02463426,105.8072778,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0620,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02509796,105.7965776,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0621,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03389957,105.8116226,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0622,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03502987,105.8124364,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0623,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.0339297,105.8076316,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0624,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03729581,105.8073795,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0625,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.04199268,105.8044347,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0626,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0348854,105.8131369,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0627,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02805186,105.8119322,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0628,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02528091,105.8076891,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0629,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02588535,105.8011642,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0630,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02980837,105.8011735,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0631,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03489738,105.8033024,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0632,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04258197,105.8041016,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0633,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04031937,105.8131796,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0634,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.0274159,105.7972716,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0635,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.04064468,105.8015375,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0636,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.04141641,105.7937129,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0637,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03731856,105.8001281,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0638,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03650242,105.7980523,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0639,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03334796,105.8066203,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0640,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.02900076,105.7985383,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0641,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.03244756,105.7944386,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0642,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03357732,105.8021273,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0643,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0381277,105.8093417,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0644,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0401669,105.795445,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0645,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03415535,105.8076091,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0646,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02941912,105.7961136,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0647,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04167171,105.8080924,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0648,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03042487,105.7984483,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0649,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03290136,105.8110414,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0650,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.02874118,105.8031223,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0651,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04274626,105.7984519,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0652,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04180652,105.7994244,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0653,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03338329,105.8066625,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0654,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02565579,105.8117581,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0655,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02588865,105.8017915,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0656,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02373579,105.8107712,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0657,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0322927,105.8067596,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0658,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02841984,105.7988794,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0659,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03539121,105.8002644,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0660,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02872469,105.8079314,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0661,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.04093982,105.8080602,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0662,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03917947,105.8129837,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0663,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03037544,105.8027537,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0664,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.02582572,105.7996487,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0665,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03425786,105.8026049,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0666,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.03422821,105.7963645,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0667,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.04176942,105.7963162,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0668,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03952881,105.7984849,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0669,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02749703,105.8032177,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0670,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.02840575,105.7957417,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0671,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02622715,105.8085854,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0672,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03414876,105.7941868,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0673,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03233006,105.8021837,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0674,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03219223,105.8110099,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0675,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.04018909,105.7963026,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0676,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02385671,105.8128596,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0677,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02546562,105.8099825,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0678,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02839314,105.7955219,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0679,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04069963,105.8004212,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0680,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02560754,105.8102905,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0681,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03675268,105.8100742,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0682,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04068218,105.7966019,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0683,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02884614,105.8040159,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0684,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03937605,105.801538,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0685,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02977923,105.8087744,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0686,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.0297062,105.8055319,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0687,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0388415,105.7964029,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0688,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02334386,105.8047218,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0689,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03079132,105.7963947,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0690,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03377634,105.8059796,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0691,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.04122372,105.8125481,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0692,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.03322758,105.8106851,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0693,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04031429,105.7971196,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0694,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02481927,105.7946468,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0695,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02613427,105.8090082,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0696,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03500927,105.8129944,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0697,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04213851,105.8003606,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0698,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02605406,105.809135,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0699,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02634208,105.7956153,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0700,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03445226,105.8131175,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0701,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03679869,105.8026944,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0702,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04197363,105.8026005,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0703,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02390925,105.8057195,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0704,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0425394,105.8104913,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0705,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03891477,105.7964681,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0706,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03378143,105.8066339,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0707,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02782598,105.8111348,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0708,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03330047,105.8016694,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0709,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03688049,105.8112904,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0710,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03042854,105.8076211,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0711,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03225884,105.799504,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0712,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03735719,105.7945004,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0713,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03420464,105.8132791,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0714,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.03137921,105.8080063,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0715,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03233788,105.7978082,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0716,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.04192774,105.801358,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0717,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.02355313,105.8100703,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0718,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0335645,105.8080993,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0719,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02895287,105.8063025,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0720,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03371286,105.8008126,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0721,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03678806,105.8119305,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0722,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03511673,105.8074192,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0723,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03014354,105.8074851,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0724,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03246096,105.8101986,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0725,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.02613144,105.8028253,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0726,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0374103,105.807815,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0727,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03132734,105.8088818,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0728,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03344719,105.8094145,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0729,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02447907,105.8032339,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0730,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02806541,105.8028846,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0731,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03001064,105.7973804,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0732,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02699832,105.8131571,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0733,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04305136,105.8014461,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0734,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03393144,105.7953482,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0735,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03811168,105.8017283,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0736,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.03701833,105.8039533,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0737,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02907512,105.8025648,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0738,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03396897,105.8002179,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0739,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03750677,105.7973059,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0740,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.02731513,105.7969354,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0741,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.03294168,105.8011923,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0742,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.04073931,105.7986681,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0743,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0344684,105.8029864,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0744,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04297597,105.8113456,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0745,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.03227126,105.7944915,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0746,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04009898,105.8016694,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0747,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03746134,105.8064742,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0748,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03347914,105.8046736,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0749,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02428964,105.8022537,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0750,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.03068855,105.8130993,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0751,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03539243,105.8019591,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0752,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03687181,105.8035857,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0753,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03649854,105.801223,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0754,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02398825,105.8083025,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0755,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02646009,105.8102327,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0756,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02948321,105.8128109,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0757,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03700482,105.7962466,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0758,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03743726,105.809887,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0759,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02669111,105.8123226,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0760,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03584869,105.8092827,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0761,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.02772442,105.7986969,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0762,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02827185,105.80192,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0763,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02850579,105.7968036,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0764,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03602323,105.8044215,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0765,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03984766,105.805157,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0766,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.04233403,105.8033077,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0767,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.03810751,105.8084759,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0768,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03648201,105.7944872,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0769,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02473958,105.797874,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0770,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02993953,105.8068969,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0771,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03274944,105.7948377,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0772,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02341043,105.8103308,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0773,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03020847,105.8076374,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0774,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03192527,105.8027425,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0775,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03820307,105.8038614,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0776,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04028658,105.8076239,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0777,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04137187,105.7975096,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0778,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03164726,105.8115506,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0779,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03114948,105.7986359,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0780,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02396794,105.8012457,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0781,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03140412,105.8038958,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0782,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03170229,105.7957798,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0783,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03632737,105.7961119,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0784,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02618636,105.7950399,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0785,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02727893,105.7998185,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0786,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.02687363,105.8118616,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0787,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03977767,105.8064104,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0788,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.04309753,105.8079607,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0789,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02337109,105.8028252,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0790,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.03165443,105.7950983,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0791,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.02939847,105.8028655,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0792,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03685399,105.8118872,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0793,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03893842,105.8097385,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0794,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0369234,105.7995039,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0795,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.02817317,105.8001134,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0796,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0305147,105.7972403,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0797,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03233665,105.7975999,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0798,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03836592,105.8107499,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0799,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02861385,105.7957525,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0800,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.03556695,105.8103387,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0801,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04190269,105.7981541,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0802,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03258821,105.8049563,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0803,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03295112,105.7939943,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0804,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04216858,105.8092187,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0805,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03807074,105.8047958,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0806,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03720788,105.7939587,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0807,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02685742,105.8032386,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0808,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04100494,105.8097791,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0809,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03599523,105.802863,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0810,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03807063,105.7978058,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0811,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.02422028,105.8072397,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0812,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.02691263,105.7948386,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0813,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.04139862,105.8131608,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0814,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03694697,105.8020411,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0815,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.02464767,105.7949749,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0816,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.03538202,105.7988091,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0817,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.0253251,105.8125037,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0818,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02330281,105.8035238,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0819,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02705611,105.7986281,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0820,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.02370437,105.8112997,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0821,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03444671,105.7942939,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0822,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03298669,105.805037,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0823,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03929433,105.8071086,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0824,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.0393953,105.8076572,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0825,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.03937935,105.8064775,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0826,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03474087,105.8133829,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0827,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.0302134,105.8117589,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0828,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.0397822,105.7984877,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0829,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02788844,105.7955011,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0830,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04297039,105.7979881,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0831,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03718212,105.8108271,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0832,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03435285,105.8131792,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0833,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04274484,105.8104376,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0834,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03908915,105.8063596,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0835,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03279785,105.7975293,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0836,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.04198721,105.8033117,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0837,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03090415,105.805194,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0838,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02448672,105.8044687,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0839,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03082848,105.8128386,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0840,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.02844486,105.8044237,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0841,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03769411,105.8060193,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0842,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.0295763,105.7968997,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0843,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02601509,105.7971031,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0844,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03281443,105.8017512,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0845,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.02701927,105.8131639,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0846,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02408551,105.8083747,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0847,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02353944,105.8021807,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0848,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.04220428,105.804879,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0849,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02768292,105.8067374,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0850,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.03114951,105.8054338,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Quốc gia Hà Nội,MA0851,Công nghệ thông tin,23,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03739027,105.8106698,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sư phạm Hà Nội,MA0852,Kỹ thuật điện,23.1,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04086058,105.8056394,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0853,Khoa học máy tính,23.2,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03818213,105.8129308,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Kỹ thuật Quân sự,MA0854,Kỹ thuật hàng không,23.3,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02744492,105.8075087,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Công nghệ BCVT,MA0855,An toàn thông tin,23.4,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03240015,105.8000328,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Thương mại,MA0856,Quản trị kinh doanh,23.5,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03640005,105.7962921,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Điện lực,MA0857,Kỹ thuật điện tử,23.6,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02743208,105.8029299,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Kinh tế Quốc dân,MA0858,Kinh tế quốc tế,23.7,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03178551,105.801801,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Công nghiệp Hà Nội,MA0859,Công nghệ vật liệu,23.8,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03865423,105.8091853,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Tài chính,MA0860,Tài chính - Ngân hàng,23.9,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02426651,105.8063075,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Giao thông Vận tải,MA0861,Kỹ thuật ô tô,24,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03989883,105.8081136,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Y tế Công cộng,MA0862,Y tế công cộng,24.1,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0378443,105.7969745,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Ngân hàng,MA0863,Tài chính ngân hàng,24.2,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03655768,105.7944837,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngoại giao,MA0864,Quan hệ quốc tế,24.3,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.04079407,105.8112629,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Mở Hà Nội,MA0865,Quản trị nhân lực,24.4,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.04120201,105.8020683,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0866,Thiết kế thời trang,24.5,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.03063223,105.8025643,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Văn hóa Hà Nội,MA0867,Quản lý văn hóa,24.6,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.03068673,105.8084025,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Phụ nữ Việt Nam,MA0868,Công tác xã hội,24.7,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03850921,105.7952375,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Hành chính Quốc gia,MA0869,Quản lý nhà nước,24.8,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02430187,105.7984173,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0870,Âm nhạc học,24.9,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03115552,105.7936402,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Luật Hà Nội,MA0871,Luật,22,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02969674,105.8032647,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Phòng cháy chữa cháy,MA0872,Kỹ thuật phòng cháy,22.1,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04195599,105.8003121,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0873,Xã hội học,22.2,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02556416,105.7976316,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0874,Ngôn ngữ Anh,22.3,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.0239932,105.8130093,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0875,Đạo diễn điện ảnh,22.4,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.04025173,105.7975723,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Quốc gia Hà Nội,MA0876,Công nghệ thông tin,22.5,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04031911,105.8049087,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sư phạm Hà Nội,MA0877,Kỹ thuật điện,22.6,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.04264717,105.797786,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0878,Khoa học máy tính,22.7,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03053508,105.8076767,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Kỹ thuật Quân sự,MA0879,Kỹ thuật hàng không,22.8,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02566552,105.8100158,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Công nghệ BCVT,MA0880,An toàn thông tin,22.9,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03861616,105.794824,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Thương mại,MA0881,Quản trị kinh doanh,23,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.04055457,105.7934154,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Điện lực,MA0882,Kỹ thuật điện tử,23.1,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0415201,105.806796,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Kinh tế Quốc dân,MA0883,Kinh tế quốc tế,23.2,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04046028,105.8070897,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Công nghiệp Hà Nội,MA0884,Công nghệ vật liệu,23.3,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.03585027,105.8021464,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Tài chính,MA0885,Tài chính - Ngân hàng,23.4,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03171693,105.7942825,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Giao thông Vận tải,MA0886,Kỹ thuật ô tô,23.5,Chính quy,"3 Cầu Giấy, Hà Nội",21.02572995,105.7990536,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Y tế Công cộng,MA0887,Y tế công cộng,23.6,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0368192,105.7935284,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Ngân hàng,MA0888,Tài chính ngân hàng,23.7,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.03806414,105.7994837,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngoại giao,MA0889,Quan hệ quốc tế,23.8,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03289261,105.8039596,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Mở Hà Nội,MA0890,Quản trị nhân lực,23.9,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.03227632,105.796539,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0891,Thiết kế thời trang,24,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.02638084,105.8116372,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Văn hóa Hà Nội,MA0892,Quản lý văn hóa,24.1,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.03084046,105.8106446,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Phụ nữ Việt Nam,MA0893,Công tác xã hội,24.2,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02434557,105.8053204,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Hành chính Quốc gia,MA0894,Quản lý nhà nước,24.3,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02575255,105.8043644,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0895,Âm nhạc học,24.4,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.02772718,105.8079485,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Luật Hà Nội,MA0896,Luật,24.5,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02667606,105.8061684,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Phòng cháy chữa cháy,MA0897,Kỹ thuật phòng cháy,24.6,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.02791051,105.8023542,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0898,Xã hội học,24.7,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03243015,105.812408,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0899,Ngôn ngữ Anh,24.8,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04258921,105.8127746,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0900,Đạo diễn điện ảnh,24.9,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.04069054,105.8026954,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Quốc gia Hà Nội,MA0901,Công nghệ thông tin,22,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02985182,105.7943427,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sư phạm Hà Nội,MA0902,Kỹ thuật điện,22.1,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03749876,105.8006506,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0903,Khoa học máy tính,22.2,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04139229,105.800588,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Kỹ thuật Quân sự,MA0904,Kỹ thuật hàng không,22.3,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02978091,105.8066016,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Công nghệ BCVT,MA0905,An toàn thông tin,22.4,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02565676,105.8059169,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Thương mại,MA0906,Quản trị kinh doanh,22.5,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.0395669,105.7967197,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Điện lực,MA0907,Kỹ thuật điện tử,22.6,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04111193,105.8079876,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Kinh tế Quốc dân,MA0908,Kinh tế quốc tế,22.7,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02987729,105.8093599,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Công nghiệp Hà Nội,MA0909,Công nghệ vật liệu,22.8,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02830896,105.7975965,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Tài chính,MA0910,Tài chính - Ngân hàng,22.9,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03202402,105.8115368,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Giao thông Vận tải,MA0911,Kỹ thuật ô tô,23,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.03063288,105.7947507,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Y tế Công cộng,MA0912,Y tế công cộng,23.1,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03841905,105.8048647,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Ngân hàng,MA0913,Tài chính ngân hàng,23.2,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0419204,105.8000008,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngoại giao,MA0914,Quan hệ quốc tế,23.3,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.02581245,105.8063896,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Mở Hà Nội,MA0915,Quản trị nhân lực,23.4,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03215866,105.797397,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0916,Thiết kế thời trang,23.5,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.02978055,105.8025832,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Văn hóa Hà Nội,MA0917,Quản lý văn hóa,23.6,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.03916138,105.7939745,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Phụ nữ Việt Nam,MA0918,Công tác xã hội,23.7,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03602441,105.8073293,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Hành chính Quốc gia,MA0919,Quản lý nhà nước,23.8,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0333591,105.8052509,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0920,Âm nhạc học,23.9,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.03240826,105.8043694,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Luật Hà Nội,MA0921,Luật,24,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03948734,105.8106167,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Phòng cháy chữa cháy,MA0922,Kỹ thuật phòng cháy,24.1,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.04237029,105.799657,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0923,Xã hội học,24.2,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03171476,105.802746,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0924,Ngôn ngữ Anh,24.3,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.04086574,105.8010109,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0925,Đạo diễn điện ảnh,24.4,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.02592955,105.8002275,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Quốc gia Hà Nội,MA0926,Công nghệ thông tin,24.5,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02750228,105.810786,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sư phạm Hà Nội,MA0927,Kỹ thuật điện,24.6,Liên kết quốc tế,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02855395,105.7960712,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0928,Khoa học máy tính,24.7,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.02423932,105.7978609,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Kỹ thuật Quân sự,MA0929,Kỹ thuật hàng không,24.8,Chất lượng cao,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04000549,105.8011059,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Công nghệ BCVT,MA0930,An toàn thông tin,24.9,Liên kết quốc tế,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.0296905,105.8011588,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Thương mại,MA0931,Quản trị kinh doanh,22,Chính quy,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.03400998,105.7971955,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Điện lực,MA0932,Kỹ thuật điện tử,22.1,Chất lượng cao,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04279484,105.8129561,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Kinh tế Quốc dân,MA0933,Kinh tế quốc tế,22.2,Liên kết quốc tế,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.04231799,105.8010834,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Công nghiệp Hà Nội,MA0934,Công nghệ vật liệu,22.3,Chính quy,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04057904,105.7966983,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Tài chính,MA0935,Tài chính - Ngân hàng,22.4,Chất lượng cao,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03311867,105.8123121,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Giao thông Vận tải,MA0936,Kỹ thuật ô tô,22.5,Liên kết quốc tế,"3 Cầu Giấy, Hà Nội",21.03909487,105.8014734,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Y tế Công cộng,MA0937,Y tế công cộng,22.6,Chính quy,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03866154,105.8055416,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Học viện Ngân hàng,MA0938,Tài chính ngân hàng,22.7,Chất lượng cao,"12 Chùa Bộc, Đống Đa, Hà Nội",21.02748383,105.7975733,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngoại giao,MA0939,Quan hệ quốc tế,22.8,Liên kết quốc tế,"69 Chùa Láng, Đống Đa, Hà Nội",21.02653651,105.8095436,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Mở Hà Nội,MA0940,Quản trị nhân lực,22.9,Chính quy,"96 Định Công, Hoàng Mai, Hà Nội",21.04230058,105.7992062,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0941,Thiết kế thời trang,23,Chất lượng cao,"360 Đê La Thành, Đống Đa, Hà Nội",21.03261773,105.7963052,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Văn hóa Hà Nội,MA0942,Quản lý văn hóa,23.1,Liên kết quốc tế,"418 Đê La Thành, Đống Đa, Hà Nội",21.04051186,105.8067423,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Phụ nữ Việt Nam,MA0943,Công tác xã hội,23.2,Chính quy,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02473489,105.7959989,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Hành chính Quốc gia,MA0944,Quản lý nhà nước,23.3,Chất lượng cao,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02746125,105.7943585,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0945,Âm nhạc học,23.4,Liên kết quốc tế,"77 Hào Nam, Đống Đa, Hà Nội",21.03261156,105.8064897,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Luật Hà Nội,MA0946,Luật,23.5,Chính quy,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03815283,105.7942421,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Phòng cháy chữa cháy,MA0947,Kỹ thuật phòng cháy,23.6,Chất lượng cao,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03072081,105.79862,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0948,Xã hội học,23.7,Liên kết quốc tế,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.03154488,105.7965405,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0949,Ngôn ngữ Anh,23.8,Chính quy,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.02696508,105.8001564,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Sân khấu - Điện ảnh,MA0950,Đạo diễn điện ảnh,23.9,Chất lượng cao,"Mai Dịch, Cầu Giấy, Hà Nội",21.0305472,105.7968724,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Quốc gia Hà Nội,MA0951,Công nghệ thông tin,24,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.04043493,105.8015271,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sư phạm Hà Nội,MA0952,Kỹ thuật điện,24.1,Chính quy,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.02951818,105.8063449,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Công nghệ - ĐHQG Hà Nội,MA0953,Khoa học máy tính,24.2,Chất lượng cao,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03614173,105.807031,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Kỹ thuật Quân sự,MA0954,Kỹ thuật hàng không,24.3,Liên kết quốc tế,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02936548,105.7951868,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Công nghệ BCVT,MA0955,An toàn thông tin,24.4,Chính quy,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03560719,105.8011226,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Thương mại,MA0956,Quản trị kinh doanh,24.5,Chất lượng cao,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.02620439,105.7969184,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Điện lực,MA0957,Kỹ thuật điện tử,24.6,Liên kết quốc tế,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.02426816,105.8069366,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Kinh tế Quốc dân,MA0958,Kinh tế quốc tế,24.7,Chính quy,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.03966806,105.8035551,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Công nghiệp Hà Nội,MA0959,Công nghệ vật liệu,24.8,Chất lượng cao,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.04015468,105.8099232,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Học viện Tài chính,MA0960,Tài chính - Ngân hàng,24.9,Liên kết quốc tế,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.03284413,105.8029017,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Giao thông Vận tải,MA0961,Kỹ thuật ô tô,22,Chính quy,"3 Cầu Giấy, Hà Nội",21.03032243,105.8020673,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Y tế Công cộng,MA0962,Y tế công cộng,22.1,Chất lượng cao,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.03150855,105.8112928,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Ngân hàng,MA0963,Tài chính ngân hàng,22.2,Liên kết quốc tế,"12 Chùa Bộc, Đống Đa, Hà Nội",21.04317406,105.8075022,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngoại giao,MA0964,Quan hệ quốc tế,22.3,Chính quy,"69 Chùa Láng, Đống Đa, Hà Nội",21.03164681,105.7997545,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Mở Hà Nội,MA0965,Quản trị nhân lực,22.4,Chất lượng cao,"96 Định Công, Hoàng Mai, Hà Nội",21.04175915,105.8048119,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mỹ thuật Công nghiệp,MA0966,Thiết kế thời trang,22.5,Liên kết quốc tế,"360 Đê La Thành, Đống Đa, Hà Nội",21.03064838,105.8001202,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Văn hóa Hà Nội,MA0967,Quản lý văn hóa,22.6,Chính quy,"418 Đê La Thành, Đống Đa, Hà Nội",21.03839317,105.7980623,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Phụ nữ Việt Nam,MA0968,Công tác xã hội,22.7,Chất lượng cao,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.02691002,105.7989314,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Hành chính Quốc gia,MA0969,Quản lý nhà nước,22.8,Liên kết quốc tế,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04038442,105.8096616,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Âm nhạc Quốc gia Việt Nam,MA0970,Âm nhạc học,22.9,Chính quy,"77 Hào Nam, Đống Đa, Hà Nội",21.0367859,105.7977957,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Luật Hà Nội,MA0971,Luật,23,Chất lượng cao,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.0253916,105.7961017,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Phòng cháy chữa cháy,MA0972,Kỹ thuật phòng cháy,23.1,Liên kết quốc tế,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03287413,105.8056349,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Khoa học Xã hội và Nhân văn,MA0973,Xã hội học,23.2,Chính quy,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.04067787,105.7997929,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0974,Ngôn ngữ Anh,23.3,Chất lượng cao,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03956837,105.8060081,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Sân khấu - Điện ảnh,MA0975,Đạo diễn điện ảnh,23.4,Liên kết quốc tế,"Mai Dịch, Cầu Giấy, Hà Nội",21.04138645,105.7982948,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Quốc gia Hà Nội,MA0976,Công nghệ thông tin,23.5,Chính quy,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03660539,105.8069283,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Đại học Sư phạm Hà Nội,MA0977,Kỹ thuật điện,23.6,Chất lượng cao,"136 Xuân Thủy, Cầu Giấy, Hà Nội",21.03725116,105.8117978,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghệ - ĐHQG Hà Nội,MA0978,Khoa học máy tính,23.7,Liên kết quốc tế,"144 Xuân Thủy, Cầu Giấy, Hà Nội",21.03112582,105.7939024,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Học viện Kỹ thuật Quân sự,MA0979,Kỹ thuật hàng không,23.8,Chính quy,"236 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03935372,105.8036276,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Học viện Công nghệ BCVT,MA0980,An toàn thông tin,23.9,Chất lượng cao,"122 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.03973535,105.8059086,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Thương mại,MA0981,Quản trị kinh doanh,24,Liên kết quốc tế,"79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",21.04184983,105.7973194,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Đại học Điện lực,MA0982,Kỹ thuật điện tử,24.1,Chính quy,"235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",21.04038328,105.8052591,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Đại học Kinh tế Quốc dân,MA0983,Kinh tế quốc tế,24.2,Chất lượng cao,"207 Giải Phóng, Hai Bà Trưng, Hà Nội",21.02909082,105.8038032,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Công nghiệp Hà Nội,MA0984,Công nghệ vật liệu,24.3,Liên kết quốc tế,"298 Cầu Diễn, Bắc Từ Liêm, Hà Nội",21.02993224,105.8115339,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Học viện Tài chính,MA0985,Tài chính - Ngân hàng,24.4,Chính quy,"58 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",21.02562099,105.7945415,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Giao thông Vận tải,MA0986,Kỹ thuật ô tô,24.5,Chất lượng cao,"3 Cầu Giấy, Hà Nội",21.0371779,105.8053337,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Y tế Công cộng,MA0987,Y tế công cộng,24.6,Liên kết quốc tế,"1A Đức Thắng, Bắc Từ Liêm, Hà Nội",21.0239417,105.8089802,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Học viện Ngân hàng,MA0988,Tài chính ngân hàng,24.7,Chính quy,"12 Chùa Bộc, Đống Đa, Hà Nội",21.0314981,105.8129701,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Thấp,Cao,Cao,Không,Không
+Học viện Ngoại giao,MA0989,Quan hệ quốc tế,24.8,Chất lượng cao,"69 Chùa Láng, Đống Đa, Hà Nội",21.03657543,105.8070633,Tầm trung,Top đầu,Cầu Giấy,Khoa học tự nhiên,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Mở Hà Nội,MA0990,Quản trị nhân lực,24.9,Liên kết quốc tế,"96 Định Công, Hoàng Mai, Hà Nội",21.03015268,105.803429,Bình thường,Tầm trung,Cầu Giấy,Kỹ thuật,Cao,Thấp,Thấp,Không,Không
+Đại học Mỹ thuật Công nghiệp,MA0991,Thiết kế thời trang,22,Chính quy,"360 Đê La Thành, Đống Đa, Hà Nội",21.03679005,105.7964529,Chất lượng cao,Top đầu,Cầu Giấy,Kinh tế,Thấp,Cao,Cao,Có,Có
+Đại học Văn hóa Hà Nội,MA0992,Quản lý văn hóa,22.1,Chất lượng cao,"418 Đê La Thành, Đống Đa, Hà Nội",21.04251919,105.8070247,Tầm trung,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Trung bình,Trung bình,Không,Không
+Học viện Phụ nữ Việt Nam,MA0993,Công tác xã hội,22.2,Liên kết quốc tế,"68 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.04162055,105.8030277,Bình thường,Top đầu,Cầu Giấy,Khoa học tự nhiên,Cao,Thấp,Thấp,Có,Có
+Học viện Hành chính Quốc gia,MA0994,Quản lý nhà nước,22.3,Chính quy,"77 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03221839,105.8054421,Chất lượng cao,Tầm trung,Cầu Giấy,Kỹ thuật,Thấp,Cao,Cao,Không,Không
+Học viện Âm nhạc Quốc gia Việt Nam,MA0995,Âm nhạc học,22.4,Chất lượng cao,"77 Hào Nam, Đống Đa, Hà Nội",21.0275187,105.8063222,Tầm trung,Top đầu,Cầu Giấy,Kinh tế,Trung bình,Trung bình,Trung bình,Có,Có
+Đại học Luật Hà Nội,MA0996,Luật,22.5,Liên kết quốc tế,"87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",21.03302456,105.8057289,Bình thường,Tầm trung,Cầu Giấy,Y - Dược,Cao,Thấp,Thấp,Không,Không
+Đại học Phòng cháy chữa cháy,MA0997,Kỹ thuật phòng cháy,22.6,Chính quy,"243 Khuất Duy Tiến, Thanh Xuân, Hà Nội",21.03002261,105.8051576,Chất lượng cao,Top đầu,Cầu Giấy,Khoa học tự nhiên,Thấp,Cao,Cao,Có,Có
+Đại học Khoa học Xã hội và Nhân văn,MA0998,Xã hội học,22.7,Chất lượng cao,"336 Nguyễn Trãi, Thanh Xuân, Hà Nội",21.02932787,105.8035574,Tầm trung,Tầm trung,Cầu Giấy,Kỹ thuật,Trung bình,Trung bình,Trung bình,Không,Không
+Đại học Ngoại ngữ - ĐHQG Hà Nội,MA0999,Ngôn ngữ Anh,22.8,Liên kết quốc tế,"Phạm Văn Đồng, Cầu Giấy, Hà Nội",21.03049888,105.8029418,Bình thường,Top đầu,Cầu Giấy,Kinh tế,Cao,Thấp,Thấp,Có,Có
+Đại học Sân khấu - Điện ảnh,MA1000,Đạo diễn điện ảnh,22.9,Chính quy,"Mai Dịch, Cầu Giấy, Hà Nội",21.0418616,105.7992557,Chất lượng cao,Tầm trung,Cầu Giấy,Y - Dược,Trung bình,Cao,Cao,Không,Không

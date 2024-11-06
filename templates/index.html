@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tư Vấn Chọn Trường Đại Học</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Hệ thống Tư Vấn Chọn Trường Đại Học (Khối A)</h1>
+        <form action="/" method="post" class="p-4 border rounded bg-light">
+            <h4>Nhập Điểm Thi</h4>
+            <div class="form-group">
+                <label for="diem_toan">Điểm Toán</label>
+                <input type="number" step="0.1" class="form-control" id="diem_toan" name="diem_toan" required>
+            </div>
+            <div class="form-group">
+                <label for="diem_ly">Điểm Lý</label>
+                <input type="number" step="0.1" class="form-control" id="diem_ly" name="diem_ly" required>
+            </div>
+            <div class="form-group">
+                <label for="diem_hoa">Điểm Hóa</label>
+                <input type="number" step="0.1" class="form-control" id="diem_hoa" name="diem_hoa" required>
+            </div>
+
+            <h4>Nhập Địa Chỉ Nhà</h4>
+            <p>Vui lòng nhập địa chỉ nhà hoặc vị trí hiện tại của bạn:</p>
+            <div class="form-group">
+                <label for="address">Địa chỉ</label>
+                <input type="text" class="form-control" id="address" name="address" placeholder="Nhập địa chỉ nhà của bạn" required>
+            </div>
+
+            <h4>Nguyện Vọng và Khả Năng Tài Chính</h4>
+            <div class="form-group">
+                <label for="chat_luong">Chất lượng trường</label>
+                <select class="form-control" id="chat_luong" name="chat_luong">
+                    <option value="Chất lượng cao">Chất lượng cao</option>
+                    <option value="Tầm trung">Tầm trung</option>
+                    <option value="Bình thường">Bình thường</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="hoc_phi">Học phí</label>
+                <select class="form-control" id="hoc_phi" name="hoc_phi">
+                    <option value="Thấp">Thấp</option>
+                    <option value="Trung bình">Trung bình</option>
+                    <option value="Cao">Cao</option>
+                </select>
+            </div>
+
+            <h4>Lĩnh Vực Đào Tạo</h4>
+            <div class="form-group">
+                <label for="linh_vuc">Lĩnh vực đào tạo</label>
+                <select class="form-control" id="linh_vuc" name="linh_vuc">
+                    <option value="Khoa học tự nhiên">Khoa học tự nhiên</option>
+                    <option value="Kỹ thuật">Kỹ thuật</option>
+                    <option value="Kinh tế">Kinh tế</option>
+                    <option value="Y - Dược">Y - Dược</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="canh_tranh">Mức độ cạnh tranh</label>
+                <select class="form-control" id="canh_tranh" name="canh_tranh">
+                    <option value="Cao">Cao</option>
+                    <option value="Trung bình">Trung bình</option>
+                    <option value="Thấp">Thấp</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="co_hoi_viec_lam">Cơ hội việc làm sau tốt nghiệp</label>
+                <select class="form-control" id="co_hoi_viec_lam" name="co_hoi_viec_lam">
+                    <option value="Cao">Cao</option>
+                    <option value="Trung bình">Trung bình</option>
+                    <option value="Thấp">Thấp</option>
+                </select>
+            </div>
+
+            <h4>Chính Sách Hỗ Trợ</h4>
+            <div class="form-group">
+                <label for="hoc_bong">Chính sách học bổng</label>
+                <select class="form-control" id="hoc_bong" name="hoc_bong">
+                    <option value="Có">Có</option>
+                    <option value="Không">Không</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="chuong_trinh_lien_ket">Chương trình liên kết quốc tế</label>
+                <select class="form-control" id="chuong_trinh_lien_ket" name="chuong_trinh_lien_ket">
+                    <option value="Có">Có</option>
+                    <option value="Không">Không</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block">Tìm kiếm ngành học</button>
+        </form>
+    </div>
+</body>
+</html>

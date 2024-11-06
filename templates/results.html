@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kết Quả Tư Vấn</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Kết Quả Tư Vấn Chọn Ngành Học</h1>
+        <p class="text-center">Tổng điểm của bạn: <strong>{{ tong_diem }}</strong></p>
+        
+        {% if results %}
+            <table class="table table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Tên Trường</th>
+                        <th>Tên Ngành</th>
+                        <th>Điểm Chuẩn</th>
+                        <th>Hệ Đào Tạo</th>
+                        <th>Địa Chỉ</th>
+                        <th>Chương Trình Học Bổng</th>
+                        <th>Chất Lượng Trường</th>
+                        <th>Nhóm Xếp Hạng</th>
+                        <th>Lĩnh Vực</th>
+                        <th>Học Phí</th>
+                        <th>Mức Độ Cạnh Tranh</th>
+                        <th>Cơ Hội Việc Làm</th>
+                        <th>Chương Trình Liên Kết</th>
+                        <th>Khoảng Cách (km)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in results %}
+                        <tr>
+                            <td>{{ row['ten_truong'] }}</td>
+                            <td>{{ row['ten_nganh'] }}</td>
+                            <td>{{ row['diem_chuan'] }}</td>
+                            <td>{{ row['he_dao_tao'] }}</td>
+                            <td>{{ row['dia_chi'] }}</td>
+                            <td>{{ row['chuong_trinh_hoc_bong'] }}</td>
+                            <td>{{ row['chat_luong'] }}</td>
+                            <td>{{ row['nhom_xep_hang'] }}</td>
+                            <td>{{ row['linh_vuc'] }}</td>
+                            <td>{{ row['hoc_phi'] }}</td>
+                            <td>{{ row['canh_tranh'] }}</td>
+                            <td>{{ row['co_hoi_viec_lam'] }}</td>
+                            <td>{{ row['chuong_trinh_lien_ket'] }}</td>
+                            <td>{{ row['distance'] | round(2) }} km</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <p class="text-center text-danger">Không có ngành nào phù hợp với điều kiện của bạn.</p>
+        {% endif %}
+
+        <div class="text-center mt-4">
+            <a href="/" class="btn btn-secondary">Quay lại</a>
+        </div>
+    </div>
+</body>
+</html>

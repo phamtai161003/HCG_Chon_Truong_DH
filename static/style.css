@@ -1,0 +1,98 @@
+/* Style toàn bộ trang */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Style cho tiêu đề chính */
+h1 {
+    color: #007bff;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style cho form nhập liệu */
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.form-control {
+    border-radius: 4px;
+}
+
+/* Style cho nút tìm kiếm */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* Style cho bảng kết quả */
+.table {
+    margin-top: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.table thead {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+/* Style cho nút Quay lại */
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+/* Style cho thông báo không có kết quả */
+.text-center.text-danger {
+    color: #dc3545;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Căn chỉnh cho thiết bị di động */
+@media (max-width: 576px) {
+    h1 {
+        font-size: 1.5em;
+    }
+
+    .form-group label,
+    .table th, .table td {
+        font-size: 0.9em;
+    }
+
+    .btn {
+        font-size: 0.9em;
+    }
+}
