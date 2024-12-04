@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, url_for
 import pandas as pd
 import math
 import requests
@@ -25,7 +25,7 @@ def haversine(lat1, lon1, lat2, lon2):
 def geocode_address(address):
     url = f"https://nominatim.openstreetmap.org/search?q={address}&format=json&limit=1"
     headers = {
-        "User-Agent": "MyUniversityAdvisorApp/1.0 (phamductai2710@gmail.com)" \
+        "User-Agent": "MyUniversityAdvisorApp/1.0 (phamductai2710@gmail.com)"
     }
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
@@ -60,34 +60,23 @@ def index():
         hoc_bong = request.form.get('hoc_bong')
         chuong_trinh_lien_ket = request.form.get('chuong_trinh_lien_ket')
 
-        # Lọc trường phù hợp với các tiêu chí đầu vào
+        # Lọc trường phù hợp với lĩnh vực đã chọn và các tiêu chí đầu vào
+        # Chỉ lấy những ngành có điểm chuẩn không quá cao so với `tong_diem`
         ket_qua = data[
-            (data['diem_chuan'] <= tong_diem) &
-            (data['chat_luong'] == chat_luong) &
-            (data['hoc_phi'] == hoc_phi) &
-            (data['linh_vuc'] == linh_vuc) &
-            (data['canh_tranh'] == canh_tranh) &
-            (data['co_hoi_viec_lam'] == co_hoi_viec_lam) &
-            (data['hoc_bong'] == hoc_bong) &
-            (data['chuong_trinh_lien_ket'] == chuong_trinh_lien_ket)
+            (data['diem_chuan'] <= tong_diem + 1) &  # Điểm chuẩn không quá 2 điểm cao hơn tổng điểm của người dùng
+            (data['diem_chuan'] >= tong_diem - 2) &  # Điểm chuẩn không quá thấp hơn nhiều
+            (data['linh_vuc'] == linh_vuc)
         ]
 
-        # Nếu không có kết quả, nới lỏng điều kiện lọc dần dần
+        # Nếu không có kết quả phù hợp, trả về thông báo không có ngành phù hợp
         if ket_qua.empty:
-            ket_qua = data[
-                (data['diem_chuan'] <= tong_diem) &
-                (data['chat_luong'] == chat_luong) &
-                (data['linh_vuc'] == linh_vuc)
-            ]
-
-        if ket_qua.empty:
-            ket_qua = data[
-                (data['diem_chuan'] <= tong_diem) &
-                (data['linh_vuc'] == linh_vuc)
-            ]
-
-        if ket_qua.empty:
-            ket_qua = data[data['diem_chuan'] <= tong_diem]
+            return render_template(
+                'results.html', 
+                results=[], 
+                tong_diem=tong_diem,
+                linh_vuc=linh_vuc,
+                ten_nganh=request.args.get('ten_nganh', '')
+            )
 
         # Tạo bản sao của ket_qua để tránh cảnh báo SettingWithCopyWarning
         ket_qua = ket_qua.copy()
@@ -97,12 +86,50 @@ def index():
             lambda row: haversine(user_lat, user_lon, row['latitude'], row['longitude']), axis=1
         )
 
-        # Sắp xếp theo khoảng cách gần nhất
-        ket_qua = ket_qua.sort_values(by='distance').head(10)
+        # Sắp xếp theo điểm chuẩn giảm dần và khoảng cách gần nhất, hiển thị tối đa 100 kết quả
+        ket_qua = ket_qua.sort_values(
+            by=['diem_chuan', 'distance'], 
+            ascending=[False, True]
+        ).head(100)  # Hiển thị tối đa 100 kết quả
 
-        return render_template('results.html', results=ket_qua.to_dict(orient='records'), tong_diem=tong_diem)
+        return render_template(
+            'results.html', 
+            results=ket_qua.to_dict(orient='records'), 
+            tong_diem=tong_diem,
+            linh_vuc=linh_vuc,
+            ten_nganh=request.args.get('ten_nganh', '')
+        )
     
     return render_template('index.html')
+
+
+
+@app.route('/filter_results', methods=['GET'])
+def filter_results():
+    # Lấy từ khóa ngành học người dùng nhập
+    ten_nganh = request.args.get('ten_nganh', '').lower()
+    tong_diem = request.args.get('tong_diem', type=float, default=0)
+
+    # Lọc các ngành theo từ khóa nhập vào từ dữ liệu gốc
+    filtered_results = data[(data['ten_nganh'].str.lower().str.contains(ten_nganh, na=False)) &
+                            (data['diem_chuan'] <= tong_diem + 1)]
+
+    # Tính khoảng cách cho từng kết quả lọc (sử dụng tọa độ mặc định nếu cần)
+    user_lat, user_lon = 21.0285, 105.8542  # Toạ độ ví dụ (Hà Nội)
+    filtered_results = filtered_results.copy()
+    filtered_results['distance'] = filtered_results.apply(
+        lambda row: haversine(user_lat, user_lon, row['latitude'], row['longitude']), axis=1
+    )
+
+    # Sắp xếp kết quả theo điểm chuẩn giảm dần và khoảng cách gần nhất, giới hạn 100 kết quả
+    filtered_results = filtered_results.sort_values(by=['diem_chuan', 'distance'], ascending=[False, True]).head(100)
+
+    return render_template(
+        'results.html', 
+        results=filtered_results.to_dict(orient='records'), 
+        tong_diem=tong_diem, 
+        ten_nganh=ten_nganh
+    )
 
 if __name__ == '__main__':
     app.run(debug=True)
